@@ -39,6 +39,7 @@
     <script src="<?php print $base_path . $path_to_zen; ?>/js/respond.js"></script>
     <![endif]-->
   <?php endif; ?>
+  <script defer src="https://analytics.codeit.ninja/script.js" data-website-id="2dc74ea7-8c79-4a5d-96fb-51801f28c14b"></script>
 </head>
 <body class="<?php print $classes; ?>" <?php print $attributes;?>>
   <?php if ($skip_link_text && $skip_link_anchor): ?>
